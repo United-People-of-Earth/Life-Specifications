@@ -1,1 +1,1 @@
-# Life-Specifications
+# Life Specifications
